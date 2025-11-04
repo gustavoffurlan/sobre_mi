@@ -12,7 +12,7 @@
 
 ## 📄 **Descargar CV en PDF**  
 [![Download CV](https://img.shields.io/badge/Download-Curriculum_Vitae_CV_Gustavo_Furlan.pdf-906090?style=for-the-badge&logo=adobe-acrobat-reader)](Curriculum%20Vitae%20CV%20Gustavo%20Furlan.pdf)  
-*(Subí el PDF original al repo para que funcione el link)*
+
 
 ---
 
