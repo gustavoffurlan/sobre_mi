@@ -25,7 +25,8 @@ Profesional de IT con **más de 15 años** de experiencia en:
 - Backup y monitoreo (**BACULA, BareOS, Nagios, Icinga**)  
 - Scripting (**Python, Bash**)  
 - Bases de datos (**MySQL, PostgreSQL**)  
-- Coordinación de mesas de servicio y proyectos de infraestructura IT  
+- Coordinación de mesas de servicio y proyectos de infraestructura IT
+- Automatización de workflow con **n8n**
 
 ---
 
@@ -93,7 +94,8 @@ Profesional de IT con **más de 15 años** de experiencia en:
 - **Introducción a la programación Python** - Google (2022)  
 - **Curso Huawei OceanStor Dorado V6** - Central Tech (2023)  
 - **Curso de Seguridad Informática** - Academia Latinoamericana (2006)  
-- **Curso Reparador de PC** - UTN Santa Fe (2003)  
+- **Curso Reparador de PC** - UTN Santa Fe (2003)
+- (https://www.linkedin.com/in/gustavo-f-furlan/details/certifications/)
 
 ---
 
