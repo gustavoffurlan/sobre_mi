@@ -1,7 +1,7 @@
 # 👨‍💻 Gustavo Furlan  
 **Ingeniero en Sistemas**  
 
-![Banner](https://via.placeholder.com/1200x300/001848/906090?text=Gustavo+Furlan+-+Ingeniero+en+Sistemas)  
+ 
 *Profesional IT con +15 años en soporte técnico, redes, virtualización y automatización. ¡Listo pa' resolverlo todo!*  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo_Furlan-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-furlan)  
