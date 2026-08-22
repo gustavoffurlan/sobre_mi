@@ -26,12 +26,12 @@ Actualmente radicado en Argentina y **totalmente disponible para reubicarse en E
 
 ---
 
-## CV Actualizado | Updated CV
+## CV
 
-📄 **[Versión limpia orientada a logros (Markdown)](CV_Gustavo_Furlan_Senior_Infrastructure_2026.md)**  
-📄 Versión PDF profesional disponible (pedir o descargar desde los artifacts del proyecto)
+📄 **[Versión limpia y precisa (Markdown)](CV_Gustavo_Furlan_Senior_Infrastructure_2026.md)** — esta es la versión correcta de contenido.
 
-*El PDF antiguo del repositorio ya no representa el posicionamiento actual. Usar la versión 2026.*
+⚠️ El PDF `CV_Gustavo_Furlan_Senior_Infrastructure_Canva_2026.pdf` que está actualmente en el repo es una versión generada por Canva AI que **tiene contenido diluido y placeholders**. No usarlo para postular.  
+La versión precisa y minimalista (recomendada) está en los artifacts del proyecto o se puede subir reemplazando el PDF actual.
 
 ---
 
