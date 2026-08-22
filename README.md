@@ -26,92 +26,54 @@ Actualmente radicado en Argentina y **totalmente disponible para reubicarse en E
 
 ---
 
+## CV Actualizado | Updated CV
+
+📄 **[Versión limpia orientada a logros (Markdown)](CV_Gustavo_Furlan_Senior_Infrastructure_2026.md)**  
+📄 Versión PDF profesional disponible (pedir o descargar desde los artifacts del proyecto)
+
+*El PDF antiguo del repositorio ya no representa el posicionamiento actual. Usar la versión 2026.*
+
+---
+
 ## Key Experience | Experiencia Clave
 
-### Coordinador de Mesa de Servicios / Service Desk Coordinator  
+### Coordinador de Mesa de Servicios / Service Desk & Infrastructure Coordinator  
 **Sectorial de Informática – Ministerio de Economía de la Provincia de Santa Fe**  
 *Agosto 2004 – Presente*
 
-- Coordinación de la mesa de servicios de infraestructura IT de un organismo público provincial, asegurando la resolución de incidentes y la continuidad operativa.
-- Administración integral de la red TCP/IP institucional (cableado estructurado, switches, firewalls Linux).
-- Participación clave en proyectos de **actualización del core de red y de la infraestructura del datacenter** ministerial.
-- Implementación y administración de **WiFi centralizado (UniFi)** en múltiples sedes.
-- Diseño e implementación de soluciones de backup empresarial (BareOS) y de monitoreo de infraestructura (Nagios, Icinga, Pandora).
-- Administración de entornos de virtualización y servidores Linux/Windows.
-- Automatización de tareas operativas con Bash y Python. Uso de Git + Ansible/GitLab para prácticas de CI/CD.
-- Evaluación técnica de fichas técnicas en procesos de compra pública de tecnología.
-- Implementación de servicios de VoIP, impresión empresarial (CUPS) y Business Intelligence (MicroStrategy).
+- Coordinación de la mesa de servicios de infraestructura IT de un organismo público provincial.
+- Administración de red TCP/IP institucional + proyectos de **actualización del core de red y datacenter**.
+- **WiFi centralizado (UniFi)** multi-sede.
+- Backup empresarial (**BareOS**) y monitoreo (**Nagios / Icinga / Pandora**).
+- Virtualización (**VMware / Proxmox**), automatización con **Bash / Python / Ansible / GitLab CI**.
 
-### Administrador y Soporte de Red / Network Administrator & Support  
-**INSUR S.A.** | *2016 – Presente*  
-**Vladimirsky SRL** | *2008 – 2014 / 2016 – 2020*
-
-- Administración de servicios de red y soporte técnico integral en entornos empresariales.
+### Administrador y Soporte de Red  
+**INSUR S.A.** (2016 – Presente) · **Vladimirsky SRL** (2008–2014 / 2016–2020)
 
 ---
 
-## Technical Skills | Habilidades Técnicas
+## Technical Skills | Habilidades Técnicas (priorizadas)
 
-| Area | Technologies |
-|------|--------------|
-| **Operating Systems** | Linux (Debian, Ubuntu), Windows Server & Desktop |
-| **Virtualization** | VMware (vSphere / ESXi), Proxmox, XEN |
-| **Networking** | TCP/IP, DNS, DHCP, Linux Firewalls, Switches, Enterprise WiFi (UniFi), VoIP, Structured Cabling |
-| **Backup & Recovery** | BareOS, Bacula, BorgBackup |
-| **Monitoring** | Nagios, Icinga, Pandora |
-| **Automation & Scripting** | Bash, Python, Ansible, Git, GitLab CI/CD |
-| **Databases** | MySQL, PostgreSQL |
-| **Other relevant** | OpenLDAP, CUPS, MicroStrategy, ITIL concepts, ISO 27001 awareness |
-
-*Focus: Infrastructure, systems, networking, virtualization, automation and operational reliability. No longer listing outdated or secondary technologies.*
+- **Linux** (Debian/Ubuntu) + Windows Server
+- **Virtualización**: VMware vSphere/ESXi, Proxmox
+- **Networking**: TCP/IP, firewalls Linux, WiFi Enterprise, VoIP
+- **Automation**: Bash, Python, Ansible, Git, GitLab CI/CD
+- **Backup & Monitoring**: BareOS, Nagios, Icinga, Pandora
+- **Contenedores & Cloud (en desarrollo)**: Docker → Kubernetes · **Azure prioritario**
 
 ---
 
-## Education | Formación
+## Disponibilidad para España
 
-- **Ingeniería en Sistemas de Información**  
-  Universidad Tecnológica Nacional – Facultad Regional Santa Fe  
-  1997 – 2024
-
-- **Técnico en Computación**  
-  EET Nro 1 “Conrado Etchebarne”  
-  1991 – 1996
-
----
-
-## Languages | Idiomas
-
-| Language | Level |
-|----------|-------|
-| Spanish  | Native |
-| English  | Intermediate (actively improving to solid B2 technical conversational level) |
-| Italian  | Basic |
-
----
-
-## CV Download | Descargar CV
-
-[Curriculum Vitae PDF (current version)](Curriculum%20Vitae%20CV%20Gustavo%20Furlan.pdf)
-
-*A completely rewritten, achievement-oriented version of the CV (Spanish + English) is in progress and will replace this file shortly.*
-
----
-
-## Availability for Spain | Disponibilidad para España
-
-Argentine citizen, currently based in Santa Fe, Argentina.  
+Argentine citizen, currently based in Argentina.  
 Fully available to relocate to Spain.  
-Eligible to apply for Spain’s **Highly Qualified Professional** residence authorization (UGE-CE) and **EU Blue Card** under the ICT professional experience route.
+Eligible for **Highly Qualified Professional** authorization (UGE) / **EU Blue Card** (ICT experience route).
 
-Open to Senior Systems / Infrastructure Engineer, Platform Engineer or related roles (hybrid or remote within Spain after relocation).
+Open to Senior Systems / Infrastructure Engineer, Platform Engineer or related roles.
 
 ---
 
 **Contact**  
-gustavo.fernando.furlan@gmail.com  
-+54 342 6397632  
-[LinkedIn](https://www.linkedin.com/in/gustavo-f-furlan)
-
----
+gustavo.fernando.furlan@gmail.com · +54 342 6397632 · [LinkedIn](https://www.linkedin.com/in/gustavo-f-furlan)
 
 *Last update: August 2026*
