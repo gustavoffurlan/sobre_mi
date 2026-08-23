@@ -1,79 +1,76 @@
 # Gustavo F. Furlan
-**Senior IT Infrastructure & Systems Engineer**  
-**Ingeniero Senior de Infraestructura IT y Sistemas**
+**Senior IT Infrastructure Engineer**
+**Ingeniero Senior de Infraestructura IT**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo_Furlan-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-f-furlan)  
-[![Email](https://img.shields.io/badge/Email-gustavo.fernando.furlan@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:gustavo.fernando.furlan@gmail.com)  
-[![Phone](https://img.shields.io/badge/Phone-+54_342_6397632-25D366?logo=whatsapp&logoColor=white)](https://wa.me/543426397632)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo_Furlan-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-f-furlan)
+[![Email](https://img.shields.io/badge/Email-gustavo.fernando.furlan@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:gustavo.fernando.furlan@gmail.com)
 
 ---
 
 ## Professional Summary | Resumen Profesional
 
-**English**  
-Senior IT Infrastructure & Systems Engineer with **20+ years** of experience designing, administering and supporting enterprise IT environments in critical public-sector infrastructure. Strong background in Linux and Windows systems, virtualization (VMware, Proxmox), enterprise networking, backup & monitoring platforms, and automation (Bash, Python, Ansible/GitLab).  
+**English**
+Senior IT Infrastructure Engineer with **15+ years** of experience in enterprise IT support, systems administration (Windows/Linux), networking, virtualization, and backup/monitoring platforms in critical public-sector infrastructure. Manages 700+ endpoints (PCs, servers, switches, printers) and resolves ~500 tickets/month as service desk coordinator. Hands-on experience with containers and cloud (Docker, Kubernetes, AWS, Azure).
 
-Proven track record coordinating service desks, leading infrastructure projects (datacenter upgrades, core network migrations, multi-site WiFi), and ensuring high availability of systems serving government operations.  
+Currently based in Argentina and **available to relocate to Spain**. Eligible for Spain's Highly Qualified Professional residence authorization / EU Blue Card for ICT professionals.
 
-Currently based in Argentina and **fully available to relocate to Spain**. Eligible for Spain’s Highly Qualified Professional residence authorization (UGE) / EU Blue Card for ICT professionals.
+**Español**
+Ingeniero Senior de Infraestructura IT con **más de 15 años** de experiencia en soporte técnico integral, administración de sistemas (Windows/Linux), redes, virtualización y plataformas de backup/monitoreo en infraestructura crítica del sector público. Administra +700 dispositivos (PCs, servidores, switches, impresoras) y resuelve ~500 tickets/mes como coordinador de mesa de servicios. Experiencia real con contenedores y cloud (Docker, Kubernetes, AWS, Azure).
 
-**Español**  
-Ingeniero Senior de Infraestructura IT y Sistemas con **más de 20 años** de experiencia diseñando, administrando y dando soporte a entornos empresariales de infraestructura crítica en el sector público. Sólida trayectoria en sistemas Linux y Windows, virtualización (VMware, Proxmox), redes empresariales, plataformas de backup y monitoreo, y automatización (Bash, Python, Ansible/GitLab).  
-
-Experiencia demostrada coordinando mesas de servicio, liderando proyectos de infraestructura (actualización de datacenter, migraciones de core de red, WiFi multi-sede) y garantizando la alta disponibilidad de sistemas que dan servicio a operaciones gubernamentales.  
-
-Actualmente radicado en Argentina y **totalmente disponible para reubicarse en España**. Elegible para la autorización de residencia de Profesional Altamente Cualificado (UGE) / Tarjeta Azul UE para profesionales de TIC.
+Actualmente radicado en Argentina y **disponible para reubicarse en España**. Elegible para la autorización de Profesional Altamente Cualificado / Tarjeta Azul UE para profesionales de TIC.
 
 ---
 
 ## CV
 
-📄 **[Versión limpia y precisa (Markdown)](CV_Gustavo_Furlan_Senior_Infrastructure_2026.md)** — esta es la versión correcta de contenido.
-
-⚠️ El PDF `CV_Gustavo_Furlan_Senior_Infrastructure_Canva_2026.pdf` que está actualmente en el repo es una versión generada por Canva AI que **tiene contenido diluido y placeholders**. No usarlo para postular.  
-La versión precisa y minimalista (recomendada) está en los artifacts del proyecto o se puede subir reemplazando el PDF actual.
+📄 **[CV en PDF](cv_gustavo_furlan.pdf)**
 
 ---
 
 ## Key Experience | Experiencia Clave
 
-### Coordinador de Mesa de Servicios / Service Desk & Infrastructure Coordinator  
-**Sectorial de Informática – Ministerio de Economía de la Provincia de Santa Fe**  
+### Coordinador de Mesa de Servicios / Service Desk & Infrastructure Coordinator
+**Sectorial de Informática – Ministerio de Economía de la Provincia de Santa Fe**
 *Agosto 2004 – Presente*
 
-- Coordinación de la mesa de servicios de infraestructura IT de un organismo público provincial.
-- Administración de red TCP/IP institucional + proyectos de **actualización del core de red y datacenter**.
-- **WiFi centralizado (UniFi)** multi-sede.
-- Backup empresarial (**BareOS**) y monitoreo (**Nagios / Icinga / Pandora**).
-- Virtualización (**VMware / Proxmox**), automatización con **Bash / Python / Ansible / GitLab CI**.
+- Administración de +700 dispositivos (PCs, servidores, switches, impresoras) y resolución de ~500 tickets mensuales.
+- Administración integral de red TCP/IP institucional + proyectos de actualización del core de red y datacenter.
+- WiFi centralizado (UniFi) multi-sede.
+- Backup empresarial (BareOS) y monitoreo (Nagios / Icinga / Pandora).
+- Virtualización (VMware / Proxmox), automatización con Bash / Python / Ansible / GitLab CI.
 
-### Administrador y Soporte de Red  
-**INSUR S.A.** (2016 – Presente) · **Vladimirsky SRL** (2008–2014 / 2016–2020)
+### NodoFix IT | Fundador y Consultor IT Freelance
+*2019 – Presente*
+
+Servicios de soporte IT y gestión de infraestructura para pymes y particulares de Santa Fe.
+
+### Administrador y Soporte de Red
+**INSUR S.A.** (2016 – Presente · Freelance) · **Vladimirsky SRL** (2008–2014 | 2016–2020 · Freelance)
 
 ---
 
-## Technical Skills | Habilidades Técnicas (priorizadas)
+## Technical Skills | Habilidades Técnicas
 
 - **Linux** (Debian/Ubuntu) + Windows Server
 - **Virtualización**: VMware vSphere/ESXi, Proxmox
+- **Contenedores y Cloud**: Docker, Kubernetes, AWS, Azure (labs propios y uso en producción)
 - **Networking**: TCP/IP, firewalls Linux, WiFi Enterprise, VoIP
 - **Automation**: Bash, Python, Ansible, Git, GitLab CI/CD
 - **Backup & Monitoring**: BareOS, Nagios, Icinga, Pandora
-- **Contenedores & Cloud (en desarrollo)**: Docker → Kubernetes · **Azure prioritario**
 
 ---
 
 ## Disponibilidad para España
 
-Argentine citizen, currently based in Argentina.  
-Fully available to relocate to Spain.  
-Eligible for **Highly Qualified Professional** authorization (UGE) / **EU Blue Card** (ICT experience route).
+Ciudadano argentino, radicado actualmente en Argentina.
+Disponible para reubicarse en España.
+Elegible para autorización de **Profesional Altamente Cualificado** / **Tarjeta Azul UE**.
 
-Open to Senior Systems / Infrastructure Engineer, Platform Engineer or related roles.
+Abierto a roles de Senior Systems / Infrastructure Engineer, Platform Engineer o similares.
 
 ---
 
-**Contact**  
-gustavo.fernando.furlan@gmail.com · +54 342 6397632 · [LinkedIn](https://www.linkedin.com/in/gustavo-f-furlan)
+**Contact**
+gustavo.fernando.furlan@gmail.com · [LinkedIn](https://www.linkedin.com/in/gustavo-f-furlan)
 
 *Last update: August 2026*
